@@ -1,5 +1,3 @@
-# .github
-
 ## Welcome to Zephyr's GitHub Page!
 
 🌐 Welcome, Innovators and Blockchain Enthusiasts! 🌐
