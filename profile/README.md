@@ -6,13 +6,16 @@ At Zephyr, we are pioneering the next wave of blockchain technology with a focus
 
 ## Our Vision
 
-🚀 Pioneering a Quantum-Secure Blockchain: Our vision at Zephyr is to construct a ledger that not only supports the current blockchain ecosystem but propels it into a future where digital transactions are both seamless and secure.
+_🚀 Pioneering a Quantum-Secure Blockchain:_ Our vision at Zephyr is to construct a ledger that not only supports the current blockchain ecosystem but propels it into a future where digital transactions are both seamless and secure.
 
 ## How We Work
 
 _Innovation at the Core:_ At Zephyr, innovation isn't just a buzzword; it's the essence of everything we do. We are committed to pushing the boundaries of what's possible in blockchain technology with our groundbreaking approaches, much like Tesla reimagined vehicles from the ground up to accelerate the world's transition to sustainable energy.
+
 _Embracing Cutting-edge Technology:_ Our team leverages advanced cryptographic techniques, including zero-knowledge proofs and lattice-based cryptography, to build a blockchain infrastructure that is both future-proof and robust.
+
 _Collaboration for Revolutionary Results:_ We believe that the best results come from collaborative efforts. At Zephyr, we combine diverse talents and perspectives to forge solutions that are not only innovative but also practical and scalable.
+
 _Rethinking from the Ground Up:_ We not only strive for excellence but also challenge the status quo by rethinking blockchain technology from the ground up. Our goal is to redesign and refine our approaches to ensure they are the most effective, efficient, and sustainable solutions available.
 
 ## Our Journey
